@@ -1,0 +1,24 @@
+_repo: Putting-the-Most-Into-Life_63620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_issued: '2020-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Putting the Most Into Life
+url: http://www.gutenberg.org/ebooks/63620
